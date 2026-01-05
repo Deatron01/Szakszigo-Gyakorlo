@@ -1,37 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\",
+  "WorkspaceRootPath": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\programoz\u00E1sit\u00E9telek\u00F6sszehasonl\u00EDt\u00E1sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\programoz\u00E1sit\u00E9telek\u00F6sszehasonl\u00EDt\u00E1sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\bin\u00E1riskeres\u00E9siterat\u00EDv\u00E9srekurz\u00EDvv\u00E1ltozataprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\bin\u00E1riskeres\u00E9siterat\u00EDv\u00E9srekurz\u00EDvv\u00E1ltozataprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\sz\u00E9tv\u00E1logat\u00E1sprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\sz\u00E9tv\u00E1logat\u00E1sprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\sz\u00E9tv\u00E1logat\u00E1sprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\kiv\u00E1logat\u00E1sprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\rendez\u00E9sesprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\rendez\u00E9sesprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\kiv\u00E1logat\u00E1sprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\kiv\u00E1logat\u00E1sprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\uni\u00F3programoz\u00E1sit\u00E9tel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\uni\u00F3programoz\u00E1sit\u00E9tel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\metszetprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\metszetprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\metszetprogramoz\u00E1sit\u00E9telek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\egyszeruprogramozasitetelek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\programoz\u00E1sit\u00E9telek\u00F6sszehasonl\u00EDt\u00E1sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\programoz\u00E1sit\u00E9telek\u00F6sszehasonl\u00EDt\u00E1sa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\egyszeruprogramozasitetelek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\egyszeruprogramozasitetelek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\progt\u00E9telek\\uni\u00F3programoz\u00E1sit\u00E9tel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\progt\u00E9telek\\uni\u00F3programoz\u00E1sit\u00E9tel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\source\\repos\\tetelgyakorlas\\tetelgyakorlas\\t\u00F6mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|c:\\users\\nipit\\onedrive\\asztali g\u00E9p\\szakszigo-gyakorlo\\tetelgyakorlas\\tetelgyakorlas\\t\u00F6mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FCE327B-9C2F-42BF-868F-E8DDF2482790}|Tetelgyakorlas\\Tetelgyakorlas.csproj|solutionrelative:tetelgyakorlas\\t\u00F6mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,23 +63,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bin\u00E1riskeres\u00E9sIterat\u00EDv\u00E9sRekurz\u00EDvV\u00E1ltozataProgramoz\u00E1siT\u00E9telek.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Bin\u00E1riskeres\u00E9sIterat\u00EDv\u00E9sRekurz\u00EDvV\u00E1ltozataProgramoz\u00E1siT\u00E9telek.cs",
+              "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\Bin\u00E1riskeres\u00E9sIterat\u00EDv\u00E9sRekurz\u00EDvV\u00E1ltozataProgramoz\u00E1siT\u00E9telek.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Bin\u00E1riskeres\u00E9sIterat\u00EDv\u00E9sRekurz\u00EDvV\u00E1ltozataProgramoz\u00E1siT\u00E9telek.cs",
+              "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\Bin\u00E1riskeres\u00E9sIterat\u00EDv\u00E9sRekurz\u00EDvV\u00E1ltozataProgramoz\u00E1siT\u00E9telek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:49:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rendez\u00E9sesProgramoz\u00E1siT\u00E9telek.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Rendez\u00E9sesProgramoz\u00E1siT\u00E9telek.cs",
+              "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\Rendez\u00E9sesProgramoz\u00E1siT\u00E9telek.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Rendez\u00E9sesProgramoz\u00E1siT\u00E9telek.cs",
+              "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\Rendez\u00E9sesProgramoz\u00E1siT\u00E9telek.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:27:52.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Programoz\u00E1siT\u00E9telek\u00D6sszehasonl\u00EDt\u00E1sa.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Programoz\u00E1siT\u00E9telek\u00D6sszehasonl\u00EDt\u00E1sa.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Programoz\u00E1siT\u00E9telek\u00D6sszehasonl\u00EDt\u00E1sa.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\Programoz\u00E1siT\u00E9telek\u00D6sszehasonl\u00EDt\u00E1sa.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Programoz\u00E1siT\u00E9telek\u00D6sszehasonl\u00EDt\u00E1sa.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Programoz\u00E1siT\u00E9telek\u00D6sszehasonl\u00EDt\u00E1sa.cs",
               "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\Programoz\u00E1siT\u00E9telek\u00D6sszehasonl\u00EDt\u00E1sa.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAArwEUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAYwG8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T14:36:32.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Uni\u00F3Programoz\u00E1siT\u00E9tel.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Uni\u00F3Programoz\u00E1siT\u00E9tel.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Uni\u00F3Programoz\u00E1siT\u00E9tel.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\Uni\u00F3Programoz\u00E1siT\u00E9tel.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Uni\u00F3Programoz\u00E1siT\u00E9tel.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Uni\u00F3Programoz\u00E1siT\u00E9tel.cs",
               "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\Uni\u00F3Programoz\u00E1siT\u00E9tel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MetszetProgramoz\u00E1siT\u00E9telek.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\MetszetProgramoz\u00E1siT\u00E9telek.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\MetszetProgramoz\u00E1siT\u00E9telek.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\MetszetProgramoz\u00E1siT\u00E9telek.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\MetszetProgramoz\u00E1siT\u00E9telek.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\MetszetProgramoz\u00E1siT\u00E9telek.cs",
               "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\MetszetProgramoz\u00E1siT\u00E9telek.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Sz\u00E9tv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Sz\u00E9tv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Sz\u00E9tv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\Sz\u00E9tv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Sz\u00E9tv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Sz\u00E9tv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
               "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\Sz\u00E9tv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,37 +140,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Kiv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Kiv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Kiv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\Kiv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Kiv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\Kiv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
               "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\Kiv\u00E1logat\u00E1sProgramoz\u00E1siT\u00E9telek.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T11:37:00.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EgyszeruProgramozasiTetelek.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\EgyszeruProgramozasiTetelek.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\EgyszeruProgramozasiTetelek.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\ProgT\u00E9telek\\EgyszeruProgramozasiTetelek.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\EgyszeruProgramozasiTetelek.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\ProgT\u00E9telek\\EgyszeruProgramozasiTetelek.cs",
               "RelativeToolTip": "Tetelgyakorlas\\ProgT\u00E9telek\\EgyszeruProgramozasiTetelek.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwGEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwHcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T11:22:25.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "T\u00F6mb.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\T\u00F6mb.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\T\u00F6mb.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\T\u00F6mb.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\T\u00F6mb.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\T\u00F6mb.cs",
               "RelativeToolTip": "Tetelgyakorlas\\T\u00F6mb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,16 +178,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\Program.cs",
               "RelativeDocumentMoniker": "Tetelgyakorlas\\Program.cs",
-              "ToolTip": "C:\\Users\\nipit\\source\\repos\\Tetelgyakorlas\\Tetelgyakorlas\\Program.cs",
+              "ToolTip": "C:\\Users\\nipit\\OneDrive\\Asztali g\u00E9p\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\Program.cs",
               "RelativeToolTip": "Tetelgyakorlas\\Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T10:48:50.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T10:48:50.112Z"
             }
           ]
         }

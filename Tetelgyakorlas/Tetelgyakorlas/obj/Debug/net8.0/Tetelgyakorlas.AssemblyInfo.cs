@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tetelgyakorlas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d40a111ab8c59e4d9929447007f654b3983a1eee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tetelgyakorlas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tetelgyakorlas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

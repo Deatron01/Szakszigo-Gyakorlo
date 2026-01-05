@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Numerics;
+using System.Reflection;
 
 namespace Tetelgyakorlas.ProgTételek
 {
@@ -100,6 +97,34 @@ namespace Tetelgyakorlas.ProgTételek
             }
             Console.WriteLine($"Kész! Maximum: {maxérték}, előfordulások száma: {db}");
             return (db, y, maxérték);
+        }
+        // Bemenet: x - T tömb , n - egész (tömb mérete), P - logikai ,ahol T összehasonlítható
+        // Kimenet: van - logikai, max - egész tömb, maxérték - T
+        public static (bool van, int max, T maxérték) KivalogatasMaximumKivalasztas<T>(T[] x, int n, Predicate<T> P) where T : IComparable<T>, IMinMaxValue<T>
+        {
+            Console.WriteLine("\n--- KIVÁLOGATÁS és a MAXIMUM ÖSSZEÉPÍTÉSE INDUL ---");     
+            T maxérték = T.MinValue;
+            int max = 0;
+            for (int i = 0; i < n; i++)
+            {
+                if (P(x[i]) & (0 < x[i].CompareTo(maxérték)))
+                {
+                    max = i;
+                    maxérték = x[i];
+                    Console.WriteLine($"   Új feltételes maximum: x[{i}] = {x[i]}");
+                }
+            }
+            bool van = (0 < maxérték.CompareTo(T.MinValue));
+            if (van)
+            {
+                Console.WriteLine($"A feltételnek megfelelő legnagyobb elem: {maxérték} az indexen: {max}");
+                return (van, max, maxérték);
+            }
+            else
+            {
+                Console.WriteLine("Nem volt a feltételnek megfelelő elem.");
+                return (false, -1, default(T));
+            }
         }
 
     }

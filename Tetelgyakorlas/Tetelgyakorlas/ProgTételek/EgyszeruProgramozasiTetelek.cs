@@ -9,7 +9,8 @@ namespace Tetelgyakorlas.ProgTételek
 {
     internal class EgyszeruProgramozasiTetelek
     {
-        // Eldöntés tétel naplózással
+        // Bemenet: x - T tömb , n - egész (tömb mérete), P - logikai
+        // Kimenet: van - logiaki
         public static bool Eldontes<T>(T[] x, int n, Predicate<T> P)
         {
             Console.WriteLine("\n--- ELDÖNTÉS INDUL ---");
@@ -27,8 +28,9 @@ namespace Tetelgyakorlas.ProgTételek
             return van;
         }
 
-        // Lineáris keresés naplózással
-        public string[] LinearisKereses<T>(T[] x, int n, Predicate<T> P)
+        // Bemenet: x - T tömb , n - egész (tömb mérete), P - logikai
+        // Kimenet: van - logiaki, idx - egész
+        public (bool van, int idx) LinearisKereses<T>(T[] x, int n, Predicate<T> P)
         {
             Console.WriteLine("\n--- LINEÁRIS KERESÉS INDUL ---");
             int i = 0;
@@ -43,20 +45,17 @@ namespace Tetelgyakorlas.ProgTételek
             if (van)
             {
                 Console.WriteLine($"Sikeres keresés! Index: {i}");
-                eredmeny = new string[2];
-                eredmeny[0] = van.ToString();
-                eredmeny[1] = i.ToString();
+                return (van, i);
             }
             else
             {
                 Console.WriteLine("Sikertelen keresés.");
-                eredmeny = new string[1];
-                eredmeny[0] = van.ToString();
+                return (van, -1);
             }
-            return eredmeny;
         }
 
-        // Sorozatszámítás naplózással
+        // Bemenet: x - T tömb , n - egész (tömb mérete)
+        // Kimenet: érték - T 
         public static T SorozatSzamitas<T>(T[] x, int n) where T : INumber<T>
         {
             Console.WriteLine("\n--- SOROZATSZÁMÍTÁS (Összegzés) INDUL ---");
@@ -74,7 +73,8 @@ namespace Tetelgyakorlas.ProgTételek
             return érték;
         }
 
-        // Megszámlálás naplózással
+        // Bemenet: x - T tömb , n - egész (tömb mérete), P - Logikai
+        // Kimenet: db - egész 
         public int Megszamlalas<T>(T[] x, int n, Predicate<T> P)
         {
             Console.WriteLine("\n--- MEGSZÁMLÁLÁS INDUL ---");
@@ -95,7 +95,8 @@ namespace Tetelgyakorlas.ProgTételek
             return db;
         }
 
-        // Maximumkiválasztás naplózással
+        // Bemenet: x - T tömb , n - egész (tömb mérete)
+        // Kimenet: max - egész 
         public static int MaximumKivalasztas<T>(T[] x, int n) where T : INumber<T>
         {
             Console.WriteLine("\n--- MAXIMUMKIVÁLASZTÁS INDUL ---");
