@@ -1,0 +1,14 @@
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\Tetelgyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\Tetelgyakorlas.AssemblyInfoInputs.cache
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\Tetelgyakorlas.AssemblyInfo.cs
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\Tetelgyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\bin\Debug\net8.0\Tetelgyakorlas.exe
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\bin\Debug\net8.0\Tetelgyakorlas.deps.json
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\bin\Debug\net8.0\Tetelgyakorlas.runtimeconfig.json
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\bin\Debug\net8.0\Tetelgyakorlas.dll
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\bin\Debug\net8.0\Tetelgyakorlas.pdb
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\Tetelgyakorlas.dll
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\refint\Tetelgyakorlas.dll
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\Tetelgyakorlas.pdb
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\Tetelgyakorlas.genruntimeconfig.cache
+C:\Users\nipit\source\repos\Tetelgyakorlas\Tetelgyakorlas\obj\Debug\net8.0\ref\Tetelgyakorlas.dll
