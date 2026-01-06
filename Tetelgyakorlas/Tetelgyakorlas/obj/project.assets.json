@@ -164,23 +164,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nipit\\.nuget\\packages\\": {},
+    "C:\\Users\\biote\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nipit\\OneDrive\\Asztali gép\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\Tetelgyakorlas.csproj",
+      "projectUniqueName": "C:\\Users\\biote\\Desktop\\OE_Lagrange_Side_Projects\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\Tetelgyakorlas.csproj",
       "projectName": "Tetelgyakorlas",
-      "projectPath": "C:\\Users\\nipit\\OneDrive\\Asztali gép\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\Tetelgyakorlas.csproj",
-      "packagesPath": "C:\\Users\\nipit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nipit\\OneDrive\\Asztali gép\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\obj\\",
+      "projectPath": "C:\\Users\\biote\\Desktop\\OE_Lagrange_Side_Projects\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\Tetelgyakorlas.csproj",
+      "packagesPath": "C:\\Users\\biote\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\biote\\Desktop\\OE_Lagrange_Side_Projects\\Szakszigo-Gyakorlo\\Tetelgyakorlas\\Tetelgyakorlas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nipit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\biote\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -189,7 +189,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
